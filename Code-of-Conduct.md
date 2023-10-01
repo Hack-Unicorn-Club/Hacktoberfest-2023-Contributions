@@ -34,7 +34,3 @@ Violations of this Code of Conduct may result in corrective actions, including w
 By participating in Hack Unicorn Club Hacktoberfest 2023, you agree to abide by this Code of Conduct. We are committed to providing a safe and inclusive environment for everyone, and we appreciate your cooperation in making this community welcoming to all.
 
 This Code of Conduct is based on the [Contributor Covenant](https://www.contributor-covenant.org), version 2.0, available at [https://www.contributor-covenant.org/version/2/0/code_of_conduct.html](https://www.contributor-covenant.org/version/2/0/code_of_conduct.html).
-
----
-
-**Note:** Feel free to customize this Code of Conduct to better fit the specific needs and values of your community. Make sure to include contact information where people can report violations.
