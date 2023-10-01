@@ -58,7 +58,7 @@ Thank you for being a part of Hacktoberfest 2023 with Hack Unicorn Club. Happy h
  Chirag Arora</b></sub><br>
 <a href="https://www.linkedin.com/in/chiragarora0/" target="_blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" height="20" width="20" /></a>&nbsp&nbsp<a href="https://github.com/TheChirag356" target="_blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="Github" height="20" width="20" /></a><nbsp></td></a></td>
 
- <td align="center"><img alt="" src="https://media.licdn.com/dms/image/D4D35AQFpJj3FlL5_7w/profile-framedphoto-shrink_400_400/0/1687171514133?e=1696795200&v=beta&t=jB8nbYdwBWqqVXbenGbAR2UOtRMbSjpajBOmi8PVu5o" width="130px;"><br><sub><b>
+ <td align="center"><img alt="" src="https://avatars.githubusercontent.com/u/70461207?v=4" width="130px;"><br><sub><b>
  Avdesh Kumar</b></sub><br>
 <a href="https://www.linkedin.com/in/avdesh-kumar-9600851b6/" target="_blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" height="20" width="20" /></a>&nbsp&nbsp<a href="https://github.com/avikuuuu" target="_blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="Github" height="20" width="20" /></a><nbsp></td></a></td>
 </tr>
