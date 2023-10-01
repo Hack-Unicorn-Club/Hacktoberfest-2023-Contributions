@@ -7,7 +7,7 @@ Hack Unicorn Club is dedicated to fostering a welcoming and inclusive community 
 We are committed to providing a positive and harassment-free environment for everyone, regardless of age, gender, gender identity and expression, sexual orientation, disability, physical appearance, race, ethnicity, religion, or level of experience. We do not tolerate:
 
 - Harassment, discrimination, or intimidation in any form.
-- Offensive comments or behavior.
+- Offensive comments or behaviour.
 - Disrespectful or disruptive communication.
 - Unwelcome advances or attention.
 
@@ -23,7 +23,7 @@ All contributors are expected to:
 
 ## Reporting Violations
 
-If you witness or experience behavior that violates this Code of Conduct, please report it to the project maintainers by contacting [contact@hackunicornclub.com](mailto:contact@hackunicornclub.com). All reports will be kept confidential and will be addressed promptly.
+If you witness or experience behaviour that violates this Code of Conduct, please report it to the project maintainers by contacting [contact@hackunicornclub.com](mailto:hackunicornclub@gmail.com). All reports will be kept confidential and will be addressed promptly.
 
 ## Enforcement
 
