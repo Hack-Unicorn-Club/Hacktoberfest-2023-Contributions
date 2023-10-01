@@ -40,7 +40,7 @@ We're excited to have you here as part of our Hacktoberfest celebration. Join us
 
 ## Code of Conduct
 
-Please review and adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) when participating in this project.
+Please review and adhere to our [Code of Conduct](https://github.com/Hack-Unicorn-Club/Hacktoberfest-2023-Projects/blob/main/Code-of-Conduct.md) when participating in this project.
 
 ## Happy Hacking!
 
