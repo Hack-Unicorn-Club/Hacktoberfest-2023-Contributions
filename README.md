@@ -4,7 +4,7 @@
 
 We're excited to have you here as part of our Hacktoberfest celebration. Join us in contributing to open-source projects, learning, and growing together.
 
-**Note: Use PascalCase to name your repository**
+**Note: Use PascalCase to name your folder**
 
 ## How to Contribute
 
