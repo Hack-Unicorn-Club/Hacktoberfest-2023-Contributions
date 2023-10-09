@@ -36,7 +36,9 @@ We're excited to have you here as part of our Hacktoberfest celebration. Join us
    - Click `New Pull Request`
    - Choose the base repository `HackUnicornClub/hack-unicorn-hacktoberfest-2023` and the base branch `main`
    - Choose your forked repository as the head repository and branch
-   - Click `Create Pull Request`
+   - Click `Create Pull Request` (button located at the top of your repo)
+   - Wait for your PR review and merge approval!
+   - Star this repository.
 
 ## Code of Conduct
 
