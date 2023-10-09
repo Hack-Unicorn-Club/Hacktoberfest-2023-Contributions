@@ -1,0 +1,7 @@
+config.json
+/env
+/env/*
+.gitattributes
+general-facts.xlsx
+things.xlsx
+mulkshortsmaker-62ebde0e50a2.json
